@@ -35,7 +35,7 @@ A feature-rich, Flutter-based todo application with Riverpod state management.
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/checkme-todo-app.git
+   git clone https://github.com/debby53/flutterApp.git
    ```
 
 2. Navigate to project directory
