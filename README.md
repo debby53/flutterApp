@@ -30,11 +30,12 @@ A feature-rich, Flutter-based todo application with Riverpod state management.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
+```
 ## Acknowledgments
 
 - Flutter team for the amazing framework
 - - Riverpod for elegant state management solutions
+   ```
 
 ## some images representing the repo
   ![image](https://github.com/user-attachments/assets/e8234403-c60e-4972-838d-ccbbba303e30)
@@ -43,7 +44,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
   ![image](https://github.com/user-attachments/assets/bab24a09-cb50-4377-a2ef-06f359ef9820)
 
   ### etc
-
+```
 
 
 
