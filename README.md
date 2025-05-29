@@ -17,97 +17,15 @@ A feature-rich, Flutter-based todo application with Riverpod state management.
   - Light and dark mode support
   - System theme integration
 
-## Tech Stack
-
-- **Flutter** for cross-platform development
-- **Riverpod** for state management
-- Local storage for data persistence
-
-## Getting Started
-
-### Prerequisites
-
-- Flutter SDK (2.5.0 or higher)
-- Dart SDK (2.14.0 or higher)
-- Android Studio / VS Code with Flutter extensions
 
 ### Installation
 
 1. Clone the repository
    ```
    git clone https://github.com/debby53/flutterApp.git
-   ```
-
-2. Navigate to project directory
-   ```
-   cd checkme-todo-app
-   ```
-
-3. Install dependencies
-   ```
-   flutter pub get
-   ```
-
-4. Run the app
-   ```
-   flutter run
-   ```
-
-## Project Structure
-
-```
-lib/
-├── main.dart                # Entry point
-├── models/                  # Data models
-├── providers/               # Riverpod providers
-├── screens/                 # App screens
-│   ├── login_screen.dart    # Authentication
-│   ├── home_screen.dart     # Todo dashboard
-│   └── add_todo_screen.dart # Create new todos
-└── widgets/                 # Reusable components
+   
 ```
 
-## Core Features Implementation
-
-### Login Screen
-- Email and password validation
-- Secure authentication flow
-- Navigation to home screen
-
-### Home Screen (Todo Dashboard)
-- Welcome message with user's name
-- Todo list with completion status
-- Floating action button for adding new todos
-- Swipe to delete functionality
-- Long-press for additional options
-
-### Todo Management
-- Add new tasks with title and description
-- Set due dates for time-sensitive items
-- Categorize todos for better organization
-- Mark tasks as complete
-- Delete unwanted tasks
-
-### Search and Filter
-- Search bar for finding specific todos
-- Category filters
-- Due date sorting options
-
-### Theme Support
-- Toggle between light and dark modes
-- Option to follow system theme
-
-## Dependencies
-
-```yaml
-dependencies:
-  flutter:
-    sdk: flutter
-  flutter_riverpod: ^2.0.0  # State management
-  uuid: ^3.0.6              # Unique IDs
-  intl: ^0.17.0             # Date formatting
-  shared_preferences: ^2.0.15  # Local storage
-```
 
 ## License
 
